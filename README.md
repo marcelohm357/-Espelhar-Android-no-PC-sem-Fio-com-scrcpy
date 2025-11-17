@@ -1,0 +1,1 @@
+# -Espelhar-Android-no-PC-sem-Fio-com-scrcpy
